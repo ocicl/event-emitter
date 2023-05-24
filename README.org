@@ -1,0 +1,9 @@
+* event-emitter
+
+Event mechanism for Common Lisp objects.
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/fukamachi/event-emitter.git |
+| commit  | 1de163a                                            |
+| systems | event-emitter                                      |
+|---------+----------------------------------------------------|
