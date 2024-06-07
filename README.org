@@ -4,6 +4,6 @@ Event mechanism for Common Lisp objects.
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/fukamachi/event-emitter.git |
-| commit  | e88acb1                                            |
+| commit  | d8bd3d9                                            |
 | systems | event-emitter                                      |
 |---------+----------------------------------------------------|
